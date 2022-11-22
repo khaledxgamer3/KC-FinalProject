@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/complimentry scenes/start_scene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/math1.unity
+    guid: d8f882818ef0b6b4b92d1282a5bf7c6a
+  - enabled: 1
+    path: Assets/Scenes/histoy.unity
+    guid: c17fb8c6ac481014ca92380282380fe5
+  - enabled: 1
+    path: Assets/Scenes/math3.unity
+    guid: dbd6ce1fd7a2ecc468199140f6dfd43d
+  - enabled: 1
+    path: Assets/Scenes/bio.unity
+    guid: 7f67e3f0637d9cd4db17a979b9dbe27e
+  - enabled: 1
+    path: Assets/Scenes/random2.unity
+    guid: 2b648b49dbf65dd4f8236363cd35ceec
+  - enabled: 1
+    path: Assets/Scenes/math2.unity
+    guid: e41c6f5b274d3c648a7602c09f012ea6
+  - enabled: 1
+    path: Assets/Scenes/history2.unity
+    guid: 680a7d7c897995f43ba744859fbf8d18
+  - enabled: 1
+    path: Assets/Scenes/phy.unity
+    guid: 05f78cafb1e1f204eb6a508a0aa2eccb
+  - enabled: 1
+    path: Assets/Scenes/chem.unity
+    guid: 1a74eea1b0f19554091843f081a33421
+  - enabled: 1
+    path: Assets/Scenes/T or F.unity
+    guid: c5d6f4de5b449264cba1d1de4cddf55c
+  - enabled: 1
+    path: Assets/Scenes/complimentry scenes/winning.unity
+    guid: f81d20e0d8150cf4cbc4208ff3c8f13e
+  - enabled: 1
+    path: Assets/Scenes/complimentry scenes/losing.unity
+    guid: 0cc27abbab644a441be39d0c93813556
+  - enabled: 1
+    path: Assets/Scenes/complimentry scenes/false scene.unity
+    guid: 46e3c0c92bf9cdd40bfdd851ac35a4a0
+  m_configObjects: {}
