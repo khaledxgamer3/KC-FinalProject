@@ -1,0 +1,15 @@
+add 14 scenes
+add background
+add the Questions as UI 
+add wrong and right answers as buttons
+add player with ninja_controls
+add border that the player can't pass through
+cry
+add the codes
+cry again because they don't work
+make sure the game works
+think about a name  added(my Friends suggested it)
+finish final details
+
+ 
+

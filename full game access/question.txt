@@ -1,0 +1,12 @@
+ math1:easy Q math2:medium Q math3:hard Q
+ history:when was ww2 history2:when was kuwait 
+ founded 
+ T or F:kuwait_codes is the best = true
+ phy:speed x time = distance
+ che:how many elements are on the periodic table =            118
+ bio:what is the power house of the cell =
+ mitrochondria
+ Random:how old was queen elizabith 2 when she died
+ = 96
+ 
+  
